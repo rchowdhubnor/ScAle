@@ -1,5 +1,5 @@
 # ScAle
-
+The paper is available on arxiv: https://arxiv.org/abs/2606.29579v1
 ScAle trains lightweight last-token scaling adapters for SpatialEval VQA.
 
 The base vision-language model is frozen. Only small scaling parameters are trained using PyTorch hooks.
